@@ -1,0 +1,17 @@
+{
+  "split_accounts": [
+    "my_account.ally.example.csv"
+  ],
+  "split_variable_expenses": [
+    "electric.example.csv"
+  ],
+  "fixed_expenses": {
+    "internet": {
+      "amount": "38.00",
+      "split": true
+    },
+    "spotify": {
+      "amount": "10.99"
+    }
+  }
+}
