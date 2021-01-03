@@ -21,7 +21,4 @@ Personal (-) $  -6507.68
    Joint (-) $  -1427.18
              -----------
              $  -5292.27
-
-Process finished with exit code 0
-
 ```
